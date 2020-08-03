@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "SpongeBob",
+    "image": "./images/placeholder.png",
+    "link": "Fry Cook",
+    "description": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "Mr. Krabs",
+    "image": "./images/placeholder.png",
+    "link": "Restaurant Owner",
+    "description": "A Giant Anchor"
+  },
+  {
+    "id": 3,
+    "name": "Squidward",
+    "image": "./images/placeholder.png",
+    "link": "Cashier",
+    "description": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "Dexter",
+    "image": "./images/placeholder.png",
+    "link": "Boy Genius",
+    "description": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "Courage",
+    "image": "./images/placeholder.png",
+    "link": "A Cowardly Dog",
+    "description": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": "Doug Funnie",
+    "image": "./images/placeholder.png",
+    "link": "Student",
+    "description": "Bluffington"
+  },
+  {
+    "id": 7,
+    "name": "Bugs Bunny",
+    "image": "./images/placeholder.png",
+    "link": "Looney Toon",
+    "description": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Johnny Bravo",
+    "image": "./images/placeholder.png",
+    "link": "Ladies Man",
+    "description": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "Tommy Pickles",
+    "image": "./images/placeholder.png",
+    "link": "Adventurer",
+    "description": "California"
+  },
+  {
+    "id": 10,
+    "name": "Rocko",
+    "image": "./images/placeholder.png",
+    "link": "Cashier",
+    "description": "O-Town, California"
+  },
+  {
+    "id": 11,
+    "name": "Captain Planet",
+    "image": "./images/placeholder.png",
+    "link": "Superhero",
+    "description": "Earth"
+  },
+  {
+    "id": 12,
+    "name": "Ickis",
+    "image": "./images/placeholder.png",
+    "link": "Ahhhh! A Real Monster!",
+    "description": "Under a City Dump"
+  }
+]

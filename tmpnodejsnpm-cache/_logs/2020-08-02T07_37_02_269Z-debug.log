@@ -1,0 +1,40 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'i',
+1 verbose cli   'react-DOM',
+1 verbose cli   'axios'
+1 verbose cli ]
+2 info using npm@6.13.4
+3 info using node@v12.16.1
+4 verbose npm-session 73107ff3c50d9148
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 http fetch GET 404 https://registry.npmjs.org/react-DOM 629ms
+8 http fetch GET 200 https://registry.npmjs.org/axios 778ms
+9 http fetch GET 404 https://registry.npmjs.org/react-DOM 415ms
+10 silly fetchPackageMetaData error for react-DOM@latest 404 Not Found - GET https://registry.npmjs.org/react-DOM - Not found
+11 http fetch GET 200 https://registry.npmjs.org/axios/-/axios-0.19.2.tgz 733ms
+12 silly pacote tag manifest for axios@latest fetched in 1525ms
+13 timing stage:rollbackFailedOptional Completed in 1ms
+14 timing stage:runTopLevelLifecycles Completed in 3469ms
+15 verbose stack Error: 404 Not Found - GET https://registry.npmjs.org/react-DOM - Not found
+15 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\npm-registry-fetch\check-response.js:104:15
+15 verbose stack     at processTicksAndRejections (internal/process/task_queues.js:97:5)
+16 verbose statusCode 404
+17 verbose pkgid react-DOM@latest
+18 verbose cwd C:\Users\Kobe Matias\Desktop\Rutgers\homework\homework17\poshi\reactportfolio
+19 verbose Windows_NT 10.0.18362
+20 verbose argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "i" "react-DOM" "axios"
+21 verbose node v12.16.1
+22 verbose npm  v6.13.4
+23 error code E404
+24 error 404 Not Found - GET https://registry.npmjs.org/react-DOM - Not found
+25 error 404
+26 error 404 'react-DOM@latest' is not in the npm registry.
+27 error 404 Your package name is not valid, because
+28 error 404 1. name can no longer contain capital letters
+29 error 404 Note that you can also install from a
+30 error 404 tarball, folder, http url, or git url.
+31 verbose exit [ 1, true ]
